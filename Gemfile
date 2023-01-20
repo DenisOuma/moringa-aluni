@@ -13,7 +13,7 @@ gem 'cloudinary'
 gem "active_model_serializers"
 
 gem 'jwt'
-
+gem "net-http"
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3', '~> 1.4'
 # Use Puma as the app server
