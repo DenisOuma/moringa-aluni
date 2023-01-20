@@ -26,7 +26,7 @@ gem 'puma', '~> 5.0'
 gem 'bcrypt'
 gem 'activestorage'
  gem 'faker'
-
+gem 'pg'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
